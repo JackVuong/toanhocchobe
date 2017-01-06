@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0px; padding:0px;
+ background-color:#F3F3F3 ;
+ background-image:url(pic/animals_cartoon_drawing_80242_1400x1050.jpg);
+}
+ 
+ 
+h1{ font: bold 20px "Times New Roman", Times, serif; }
+h2{ font:bold 14px "Times New Roman", Times, serif; } 
+ 
+
+#main{
+	  max-width: 1800px;
+	  margin: 20px 0px;
+	  
+	 }
+.contain{
+width:1024px;
+margin-left: 180px;
+
+	}
+.header{
+border-radius:10px;
+	}
+.menu{border-radius:10px;}
+#top_header{ 
+ 		
+  		 border:3px solid black;
+ 		 padding:20px;
+		 text-align:center;
+		 border-radius:10px;
+ 		  }
+#logo{ width:150px; margin-right:10px; }
+#top_menu{ border:red; color:white; text-align:center;text-decoration:none; border-radius:10px; }
+
+
+
+#top_menu li{
+	 display:inline-block;
+	 list-style:none;
+	 padding:5px;
+	 font: bold 14px Tahoma; } 
+
+
+
+.btntrangchu {
+	-moz-box-shadow:inset 5px -1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 5px -1px 0px 0px #bbdaf7;
+	box-shadow:inset 5px -1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-webkit-border-top-left-radius:25px;
+	-moz-border-radius-topleft:25px;
+	border-top-left-radius:25px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:25px;
+	-moz-border-radius-bottomright:25px;
+	border-bottom-right-radius:25px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:-1.72px;
+	border:3px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	font-style:normal;
+	height:76px;
+	line-height:76px;
+	width:164px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #528ecc;
+}
+.btntrangchu:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}.btntrangchu:active {
+	position:relative;
+	top:1px;
+}
+ 
+.btnEffect {
+	-moz-box-shadow:inset 5px -1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 5px -1px 0px 0px #bbdaf7;
+	box-shadow:inset 5px -1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-webkit-border-top-left-radius:25px;
+	-moz-border-radius-topleft:25px;
+	border-top-left-radius:25px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:25px;
+	-moz-border-radius-bottomright:25px;
+	border-bottom-right-radius:25px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:-1.72px;
+	border:3px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	font-style:normal;
+	height:76px;
+	line-height:76px;
+	width:164px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #528ecc;
+}
+.btnEffect:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}.btnEffect:active {
+	position:relative;
+	top:1px;
+}
+ 
+ 
